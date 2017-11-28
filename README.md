@@ -3,7 +3,7 @@ Flexible Musical Beat Stream Generator
 
 ## Install
 
-    npm i
+    npm i beatnik
 
 ## Usage
 
