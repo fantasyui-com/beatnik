@@ -1,21 +1,11 @@
-# beatnik
-Flexible Musical Beat Stream Generator
 
-## Install
 
-    npm i
-
-## Usage
-
-```JavaScript
-
-// Require Library
-const beatnik = require('beatnik');
+const beatnik = require('./index.js')
 
 // Configure Stream
 const Beatnik = beatnik({
   bpm: 96,
-  minutes:5,
+  minutes:3,
 
   open:10,
   rise:60,
@@ -33,9 +23,3 @@ beats.on('readable', () => {
     console.log(`Received "${chunk}", ${chunk.length} bytes of data.`);
   }
 });
-
-```
-
-## Data
-
-beat <space> percent <space> state
