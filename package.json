@@ -1,6 +1,6 @@
 {
   "name": "beatnik",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flexible Musical Beat Stream Generator",
   "main": "index.js",
   "scripts": {
