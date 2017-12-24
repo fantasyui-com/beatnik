@@ -30,7 +30,6 @@ module.exports = function(options){
         const songPercent = (beat * 100 / beats)|0;
         const barPercent = (bar * 100 / bars)|0;
 
-
         if(  songPercent => configuration.close ){
           phase = 'close';
         }

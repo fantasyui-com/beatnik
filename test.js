@@ -10,7 +10,7 @@ const beats = beatnik({
 
   // Percentages where kinds of song segment start
 
-  states:{
+  states:[
 
     {percent:10, tags:{open:true,playing:true}},
     {percent:30, tags:{dings:true}},
@@ -19,7 +19,7 @@ const beats = beatnik({
     {percent:90, tags:{resume:true, drop: false, ending:true}},
     {percent:91, tags:{close:true,closing:true, playing:false}},
 
-  }
+  ]
 
 });
 
