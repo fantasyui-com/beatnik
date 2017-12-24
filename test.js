@@ -3,23 +3,26 @@
 const beatnik = require('./index.js')
 
 // Configure Stream
-const Beatnik = beatnik({
-  bpm: 96,
-  minutes:3,
+const beats = beatnik({
+  bpm: 96, // Beats per minute
+  bars: 16, // Bars (groups of beats)
+  minutes:3, // Total minutes
 
-  open:10,
-  rise:60,
-  drop:70,
-  resume:90,
-  close:91,
+  // Percentages where kinds of song segment start
+
+  states:{
+
+    {percent:10, tags:{open:true,playing:true}},
+    {percent:30, tags:{dings:true}},
+    {percent:60, tags:{rise:true,}},
+    {percent:70, tags:{drop:true, rise: false, open:false}},
+    {percent:90, tags:{resume:true, drop: false, ending:true}},
+    {percent:91, tags:{close:true,closing:true, playing:false}},
+
+  }
+
 });
 
-// Create Readable Beat Stream.
-const beats = new Beatnik();
-
-beats.on('readable', () => {
-  let chunk;
-  while (null !== (chunk = beats.read())) {
-    console.log(`Received "${chunk}", ${chunk.length} bytes of data.`);
-  }
+beats.forEach( chunk => {
+    console.log( chunk );
 });

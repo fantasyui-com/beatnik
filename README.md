@@ -1,41 +1,14 @@
 # beatnik
 Flexible Musical Beat Stream Generator
 
-## Install
+## Install Module
 
-    npm i beatnik
+  brew install node
+  npm i beatnik;
+  const beatnik = require('beatnik');
+  const song = beatnik({options});
 
-## Usage
+## Notes
 
-```JavaScript
-
-// Require Library
-const beatnik = require('beatnik');
-
-// Configure Stream
-const Beatnik = beatnik({
-  bpm: 96,
-  minutes:5,
-
-  open:10,
-  rise:60,
-  drop:70,
-  resume:90,
-  close:91,
-});
-
-// Create Readable Beat Stream.
-const beats = new Beatnik();
-
-beats.on('readable', () => {
-  let chunk;
-  while (null !== (chunk = beats.read())) {
-    console.log(`Received "${chunk}", ${chunk.length} bytes of data.`);
-  }
-});
-
-```
-
-## Data
-
-beat <space> percent <space> state
+  Module returns a function used in generation of song
+  Generator will return an array of objects with useful information

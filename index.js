@@ -1,9 +1,10 @@
-const { Readable } = require('stream');
+
 
 module.exports = function(options){
 
   let configuration = Object.assign({
     bpm: 96,
+    bars: 8,
     minutes:5,
 
     open:10,
@@ -12,63 +13,48 @@ module.exports = function(options){
     resume:90,
     close:91,
 
-  },options);
+  }, options);
 
-  class Beatnik extends Readable {
+  let generated = [];
 
-    constructor(opt) {
-      super(opt);
+      let beats = configuration.bpm * configuration.minutes;
+      let bars = configuration.bars;
+      let bar = 0;
 
-      this._max = configuration.bpm * configuration.minutes;
-      this._index = 1;
+      for ( let beat = 0; beat <= beats; beat ++ ){
 
-      // Logic Here
+        let phase = '';
+        bar++;
+        if (bar>=bars) bar=0;
 
-    }
-
-    _read() {
-      const i = this._index++;
-      if (i > this._max)
-        this.push(null);
-      else {
-
-        let bt = i;
-
-        const musicPercent = this._index * 100 / this._max;
+        const songPercent = (beat * 100 / beats)|0;
+        const barPercent = (bar * 100 / bars)|0;
 
 
-        if(  musicPercent => configuration.close ){
-          bt = 'close';
+        if(  songPercent => configuration.close ){
+          phase = 'close';
         }
 
-        if( musicPercent < configuration.resume ){
-          bt = 'resume';
+        if( songPercent < configuration.resume ){
+          phase = 'resume';
         }
 
-        if( musicPercent < configuration.drop ){
-          bt = 'drop';
+        if( songPercent < configuration.drop ){
+          phase = 'drop';
         }
 
-        if( musicPercent < configuration.rise ){
-          bt = 'rise';
+        if( songPercent < configuration.rise ){
+          phase = 'rise';
         }
 
-        if( musicPercent < configuration.open ){
-          bt = 'open';
+        if( songPercent < configuration.open ){
+          phase = 'open';
         }
 
+        generated.push({beats, beat, bars, bar, barPercent, songPercent, phase});
 
-
-        const str = this._index + ' ' + (musicPercent|0) + ' ' + bt;
-
-
-
-        const buf = Buffer.from(str, 'ascii');
-        this.push(buf);
-      }
-    }
   }
 
-  return Beatnik;
+  return generated;
 
 }
