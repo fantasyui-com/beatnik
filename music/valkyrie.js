@@ -1,6 +1,6 @@
 
 
-const beatnik = require('./index.js')
+const beatnik = require('../index.js')
 
 // Configure Stream
 const beats = beatnik({

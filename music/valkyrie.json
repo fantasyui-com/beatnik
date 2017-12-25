@@ -2,8 +2,8 @@
   "meta": {
     "title": "Valkyrie",
     "author": "MC Meow",
-    "bpm": 200,
-    "beats": 600,
+    "bpm": 220,
+    "beats": 660,
     "bars": 8,
     "tags": [
       "playing",
@@ -21,7 +21,7 @@
   "conf": {
     "title": "Valkyrie",
     "author": "MC Meow",
-    "bpm": 200,
+    "bpm": 220,
     "bars": 8,
     "minutes": 3,
     "definition": [
@@ -142,7 +142,7 @@
       "beat": 6,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 1,
+      "songPercent": 0,
       "tags": [
         "playing"
       ]
@@ -196,7 +196,7 @@
       "beat": 12,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 2,
+      "songPercent": 1,
       "tags": [
         "playing"
       ]
@@ -205,7 +205,7 @@
       "beat": 13,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 2,
+      "songPercent": 1,
       "tags": [
         "playing"
       ]
@@ -250,7 +250,7 @@
       "beat": 18,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 3,
+      "songPercent": 2,
       "tags": [
         "playing"
       ]
@@ -259,7 +259,7 @@
       "beat": 19,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 3,
+      "songPercent": 2,
       "tags": [
         "playing"
       ]
@@ -304,7 +304,7 @@
       "beat": 24,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 4,
+      "songPercent": 3,
       "tags": [
         "playing"
       ]
@@ -313,7 +313,7 @@
       "beat": 25,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 4,
+      "songPercent": 3,
       "tags": [
         "playing"
       ]
@@ -322,7 +322,7 @@
       "beat": 26,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 4,
+      "songPercent": 3,
       "tags": [
         "playing"
       ]
@@ -358,7 +358,7 @@
       "beat": 30,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 5,
+      "songPercent": 4,
       "tags": [
         "playing"
       ]
@@ -367,7 +367,7 @@
       "beat": 31,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 5,
+      "songPercent": 4,
       "tags": [
         "playing"
       ]
@@ -376,7 +376,7 @@
       "beat": 32,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 5,
+      "songPercent": 4,
       "tags": [
         "playing"
       ]
@@ -412,7 +412,7 @@
       "beat": 36,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 6,
+      "songPercent": 5,
       "tags": [
         "playing"
       ]
@@ -421,7 +421,7 @@
       "beat": 37,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 6,
+      "songPercent": 5,
       "tags": [
         "playing"
       ]
@@ -430,7 +430,7 @@
       "beat": 38,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 6,
+      "songPercent": 5,
       "tags": [
         "playing"
       ]
@@ -439,7 +439,7 @@
       "beat": 39,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 6,
+      "songPercent": 5,
       "tags": [
         "playing"
       ]
@@ -466,7 +466,7 @@
       "beat": 42,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 7,
+      "songPercent": 6,
       "tags": [
         "playing"
       ]
@@ -475,7 +475,7 @@
       "beat": 43,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 7,
+      "songPercent": 6,
       "tags": [
         "playing"
       ]
@@ -484,7 +484,7 @@
       "beat": 44,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 7,
+      "songPercent": 6,
       "tags": [
         "playing"
       ]
@@ -493,7 +493,7 @@
       "beat": 45,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 7,
+      "songPercent": 6,
       "tags": [
         "playing"
       ]
@@ -502,7 +502,7 @@
       "beat": 46,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 7,
+      "songPercent": 6,
       "tags": [
         "playing"
       ]
@@ -520,7 +520,7 @@
       "beat": 48,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 8,
+      "songPercent": 7,
       "tags": [
         "playing"
       ]
@@ -529,7 +529,7 @@
       "beat": 49,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 8,
+      "songPercent": 7,
       "tags": [
         "playing"
       ]
@@ -538,7 +538,7 @@
       "beat": 50,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 8,
+      "songPercent": 7,
       "tags": [
         "playing"
       ]
@@ -547,7 +547,7 @@
       "beat": 51,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 8,
+      "songPercent": 7,
       "tags": [
         "playing"
       ]
@@ -556,7 +556,7 @@
       "beat": 52,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 8,
+      "songPercent": 7,
       "tags": [
         "playing"
       ]
@@ -574,7 +574,7 @@
       "beat": 54,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 9,
+      "songPercent": 8,
       "tags": [
         "playing"
       ]
@@ -583,7 +583,7 @@
       "beat": 55,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 9,
+      "songPercent": 8,
       "tags": [
         "playing"
       ]
@@ -592,7 +592,7 @@
       "beat": 56,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 9,
+      "songPercent": 8,
       "tags": [
         "playing"
       ]
@@ -601,7 +601,7 @@
       "beat": 57,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 9,
+      "songPercent": 8,
       "tags": [
         "playing"
       ]
@@ -610,7 +610,7 @@
       "beat": 58,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 9,
+      "songPercent": 8,
       "tags": [
         "playing"
       ]
@@ -619,7 +619,7 @@
       "beat": 59,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 9,
+      "songPercent": 8,
       "tags": [
         "playing"
       ]
@@ -628,67 +628,61 @@
       "beat": 60,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 10,
+      "songPercent": 9,
       "tags": [
-        "playing",
-        "open"
+        "playing"
       ]
     },
     {
       "beat": 61,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 10,
+      "songPercent": 9,
       "tags": [
-        "playing",
-        "open"
+        "playing"
       ]
     },
     {
       "beat": 62,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 10,
+      "songPercent": 9,
       "tags": [
-        "playing",
-        "open"
+        "playing"
       ]
     },
     {
       "beat": 63,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 10,
+      "songPercent": 9,
       "tags": [
-        "playing",
-        "open"
+        "playing"
       ]
     },
     {
       "beat": 64,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 10,
+      "songPercent": 9,
       "tags": [
-        "playing",
-        "open"
+        "playing"
       ]
     },
     {
       "beat": 65,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 10,
+      "songPercent": 9,
       "tags": [
-        "playing",
-        "open"
+        "playing"
       ]
     },
     {
       "beat": 66,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 11,
+      "songPercent": 10,
       "tags": [
         "playing",
         "open"
@@ -698,7 +692,7 @@
       "beat": 67,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 11,
+      "songPercent": 10,
       "tags": [
         "playing",
         "open"
@@ -708,7 +702,7 @@
       "beat": 68,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 11,
+      "songPercent": 10,
       "tags": [
         "playing",
         "open"
@@ -718,7 +712,7 @@
       "beat": 69,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 11,
+      "songPercent": 10,
       "tags": [
         "playing",
         "open"
@@ -728,7 +722,7 @@
       "beat": 70,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 11,
+      "songPercent": 10,
       "tags": [
         "playing",
         "open"
@@ -738,7 +732,7 @@
       "beat": 71,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 11,
+      "songPercent": 10,
       "tags": [
         "playing",
         "open"
@@ -748,7 +742,7 @@
       "beat": 72,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 12,
+      "songPercent": 10,
       "tags": [
         "playing",
         "open"
@@ -758,7 +752,7 @@
       "beat": 73,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 12,
+      "songPercent": 11,
       "tags": [
         "playing",
         "open"
@@ -768,7 +762,7 @@
       "beat": 74,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 12,
+      "songPercent": 11,
       "tags": [
         "playing",
         "open"
@@ -778,7 +772,7 @@
       "beat": 75,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 12,
+      "songPercent": 11,
       "tags": [
         "playing",
         "open"
@@ -788,7 +782,7 @@
       "beat": 76,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 12,
+      "songPercent": 11,
       "tags": [
         "playing",
         "open"
@@ -798,7 +792,7 @@
       "beat": 77,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 12,
+      "songPercent": 11,
       "tags": [
         "playing",
         "open"
@@ -808,7 +802,7 @@
       "beat": 78,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 13,
+      "songPercent": 11,
       "tags": [
         "playing",
         "open"
@@ -818,7 +812,7 @@
       "beat": 79,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 13,
+      "songPercent": 11,
       "tags": [
         "playing",
         "open"
@@ -828,7 +822,7 @@
       "beat": 80,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 13,
+      "songPercent": 12,
       "tags": [
         "playing",
         "open"
@@ -838,7 +832,7 @@
       "beat": 81,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 13,
+      "songPercent": 12,
       "tags": [
         "playing",
         "open"
@@ -848,7 +842,7 @@
       "beat": 82,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 13,
+      "songPercent": 12,
       "tags": [
         "playing",
         "open"
@@ -858,7 +852,7 @@
       "beat": 83,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 13,
+      "songPercent": 12,
       "tags": [
         "playing",
         "open"
@@ -868,7 +862,7 @@
       "beat": 84,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 14,
+      "songPercent": 12,
       "tags": [
         "playing",
         "open"
@@ -878,7 +872,7 @@
       "beat": 85,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 14,
+      "songPercent": 12,
       "tags": [
         "playing",
         "open"
@@ -888,7 +882,7 @@
       "beat": 86,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 14,
+      "songPercent": 13,
       "tags": [
         "playing",
         "open"
@@ -898,7 +892,7 @@
       "beat": 87,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 14,
+      "songPercent": 13,
       "tags": [
         "playing",
         "open"
@@ -908,7 +902,7 @@
       "beat": 88,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 14,
+      "songPercent": 13,
       "tags": [
         "playing",
         "open"
@@ -918,7 +912,7 @@
       "beat": 89,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 14,
+      "songPercent": 13,
       "tags": [
         "playing",
         "open"
@@ -928,7 +922,7 @@
       "beat": 90,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 15,
+      "songPercent": 13,
       "tags": [
         "playing",
         "open"
@@ -938,7 +932,7 @@
       "beat": 91,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 15,
+      "songPercent": 13,
       "tags": [
         "playing",
         "open"
@@ -948,7 +942,7 @@
       "beat": 92,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 15,
+      "songPercent": 13,
       "tags": [
         "playing",
         "open"
@@ -958,7 +952,7 @@
       "beat": 93,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 15,
+      "songPercent": 14,
       "tags": [
         "playing",
         "open"
@@ -968,7 +962,7 @@
       "beat": 94,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 15,
+      "songPercent": 14,
       "tags": [
         "playing",
         "open"
@@ -978,7 +972,7 @@
       "beat": 95,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 15,
+      "songPercent": 14,
       "tags": [
         "playing",
         "open"
@@ -988,7 +982,7 @@
       "beat": 96,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 16,
+      "songPercent": 14,
       "tags": [
         "playing",
         "open"
@@ -998,7 +992,7 @@
       "beat": 97,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 16,
+      "songPercent": 14,
       "tags": [
         "playing",
         "open"
@@ -1008,7 +1002,7 @@
       "beat": 98,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 16,
+      "songPercent": 14,
       "tags": [
         "playing",
         "open"
@@ -1018,7 +1012,7 @@
       "beat": 99,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 16,
+      "songPercent": 15,
       "tags": [
         "playing",
         "open"
@@ -1028,7 +1022,7 @@
       "beat": 100,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 16,
+      "songPercent": 15,
       "tags": [
         "playing",
         "open"
@@ -1038,7 +1032,7 @@
       "beat": 101,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 16,
+      "songPercent": 15,
       "tags": [
         "playing",
         "open"
@@ -1048,7 +1042,7 @@
       "beat": 102,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 17,
+      "songPercent": 15,
       "tags": [
         "playing",
         "open"
@@ -1058,7 +1052,7 @@
       "beat": 103,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 17,
+      "songPercent": 15,
       "tags": [
         "playing",
         "open"
@@ -1068,7 +1062,7 @@
       "beat": 104,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 17,
+      "songPercent": 15,
       "tags": [
         "playing",
         "open"
@@ -1078,7 +1072,7 @@
       "beat": 105,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 17,
+      "songPercent": 15,
       "tags": [
         "playing",
         "open"
@@ -1088,7 +1082,7 @@
       "beat": 106,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 17,
+      "songPercent": 16,
       "tags": [
         "playing",
         "open"
@@ -1098,7 +1092,7 @@
       "beat": 107,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 17,
+      "songPercent": 16,
       "tags": [
         "playing",
         "open"
@@ -1108,7 +1102,7 @@
       "beat": 108,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 18,
+      "songPercent": 16,
       "tags": [
         "playing",
         "open"
@@ -1118,7 +1112,7 @@
       "beat": 109,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 18,
+      "songPercent": 16,
       "tags": [
         "playing",
         "open"
@@ -1128,7 +1122,7 @@
       "beat": 110,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 18,
+      "songPercent": 16,
       "tags": [
         "playing",
         "open"
@@ -1138,7 +1132,7 @@
       "beat": 111,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 18,
+      "songPercent": 16,
       "tags": [
         "playing",
         "open"
@@ -1148,7 +1142,7 @@
       "beat": 112,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 18,
+      "songPercent": 16,
       "tags": [
         "playing",
         "open"
@@ -1158,7 +1152,7 @@
       "beat": 113,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 18,
+      "songPercent": 17,
       "tags": [
         "playing",
         "open"
@@ -1168,7 +1162,7 @@
       "beat": 114,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 19,
+      "songPercent": 17,
       "tags": [
         "playing",
         "open"
@@ -1178,7 +1172,7 @@
       "beat": 115,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 19,
+      "songPercent": 17,
       "tags": [
         "playing",
         "open"
@@ -1188,7 +1182,7 @@
       "beat": 116,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 19,
+      "songPercent": 17,
       "tags": [
         "playing",
         "open"
@@ -1198,7 +1192,7 @@
       "beat": 117,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 19,
+      "songPercent": 17,
       "tags": [
         "playing",
         "open"
@@ -1208,7 +1202,7 @@
       "beat": 118,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 19,
+      "songPercent": 17,
       "tags": [
         "playing",
         "open"
@@ -1218,7 +1212,7 @@
       "beat": 119,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 19,
+      "songPercent": 18,
       "tags": [
         "playing",
         "open"
@@ -1228,7 +1222,7 @@
       "beat": 120,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 20,
+      "songPercent": 18,
       "tags": [
         "playing",
         "open"
@@ -1238,7 +1232,7 @@
       "beat": 121,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 20,
+      "songPercent": 18,
       "tags": [
         "playing",
         "open"
@@ -1248,7 +1242,7 @@
       "beat": 122,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 20,
+      "songPercent": 18,
       "tags": [
         "playing",
         "open"
@@ -1258,7 +1252,7 @@
       "beat": 123,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 20,
+      "songPercent": 18,
       "tags": [
         "playing",
         "open"
@@ -1268,7 +1262,7 @@
       "beat": 124,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 20,
+      "songPercent": 18,
       "tags": [
         "playing",
         "open"
@@ -1278,7 +1272,7 @@
       "beat": 125,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 20,
+      "songPercent": 18,
       "tags": [
         "playing",
         "open"
@@ -1288,7 +1282,7 @@
       "beat": 126,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 21,
+      "songPercent": 19,
       "tags": [
         "playing",
         "open"
@@ -1298,7 +1292,7 @@
       "beat": 127,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 21,
+      "songPercent": 19,
       "tags": [
         "playing",
         "open"
@@ -1308,7 +1302,7 @@
       "beat": 128,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 21,
+      "songPercent": 19,
       "tags": [
         "playing",
         "open"
@@ -1318,7 +1312,7 @@
       "beat": 129,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 21,
+      "songPercent": 19,
       "tags": [
         "playing",
         "open"
@@ -1328,7 +1322,7 @@
       "beat": 130,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 21,
+      "songPercent": 19,
       "tags": [
         "playing",
         "open"
@@ -1338,7 +1332,7 @@
       "beat": 131,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 21,
+      "songPercent": 19,
       "tags": [
         "playing",
         "open"
@@ -1348,7 +1342,7 @@
       "beat": 132,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 22,
+      "songPercent": 20,
       "tags": [
         "playing",
         "open"
@@ -1358,7 +1352,7 @@
       "beat": 133,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 22,
+      "songPercent": 20,
       "tags": [
         "playing",
         "open"
@@ -1368,7 +1362,7 @@
       "beat": 134,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 22,
+      "songPercent": 20,
       "tags": [
         "playing",
         "open"
@@ -1378,7 +1372,7 @@
       "beat": 135,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 22,
+      "songPercent": 20,
       "tags": [
         "playing",
         "open"
@@ -1388,7 +1382,7 @@
       "beat": 136,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 22,
+      "songPercent": 20,
       "tags": [
         "playing",
         "open"
@@ -1398,7 +1392,7 @@
       "beat": 137,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 22,
+      "songPercent": 20,
       "tags": [
         "playing",
         "open"
@@ -1408,7 +1402,7 @@
       "beat": 138,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 23,
+      "songPercent": 20,
       "tags": [
         "playing",
         "open"
@@ -1418,7 +1412,7 @@
       "beat": 139,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 23,
+      "songPercent": 21,
       "tags": [
         "playing",
         "open"
@@ -1428,7 +1422,7 @@
       "beat": 140,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 23,
+      "songPercent": 21,
       "tags": [
         "playing",
         "open"
@@ -1438,7 +1432,7 @@
       "beat": 141,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 23,
+      "songPercent": 21,
       "tags": [
         "playing",
         "open"
@@ -1448,7 +1442,7 @@
       "beat": 142,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 23,
+      "songPercent": 21,
       "tags": [
         "playing",
         "open"
@@ -1458,7 +1452,7 @@
       "beat": 143,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 23,
+      "songPercent": 21,
       "tags": [
         "playing",
         "open"
@@ -1468,7 +1462,7 @@
       "beat": 144,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 24,
+      "songPercent": 21,
       "tags": [
         "playing",
         "open"
@@ -1478,7 +1472,7 @@
       "beat": 145,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 24,
+      "songPercent": 21,
       "tags": [
         "playing",
         "open"
@@ -1488,7 +1482,7 @@
       "beat": 146,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 24,
+      "songPercent": 22,
       "tags": [
         "playing",
         "open"
@@ -1498,7 +1492,7 @@
       "beat": 147,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 24,
+      "songPercent": 22,
       "tags": [
         "playing",
         "open"
@@ -1508,7 +1502,7 @@
       "beat": 148,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 24,
+      "songPercent": 22,
       "tags": [
         "playing",
         "open"
@@ -1518,7 +1512,7 @@
       "beat": 149,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 24,
+      "songPercent": 22,
       "tags": [
         "playing",
         "open"
@@ -1528,7 +1522,7 @@
       "beat": 150,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 25,
+      "songPercent": 22,
       "tags": [
         "playing",
         "open"
@@ -1538,7 +1532,7 @@
       "beat": 151,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 25,
+      "songPercent": 22,
       "tags": [
         "playing",
         "open"
@@ -1548,7 +1542,7 @@
       "beat": 152,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 25,
+      "songPercent": 23,
       "tags": [
         "playing",
         "open"
@@ -1558,7 +1552,7 @@
       "beat": 153,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 25,
+      "songPercent": 23,
       "tags": [
         "playing",
         "open"
@@ -1568,7 +1562,7 @@
       "beat": 154,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 25,
+      "songPercent": 23,
       "tags": [
         "playing",
         "open"
@@ -1578,7 +1572,7 @@
       "beat": 155,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 25,
+      "songPercent": 23,
       "tags": [
         "playing",
         "open"
@@ -1588,7 +1582,7 @@
       "beat": 156,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 26,
+      "songPercent": 23,
       "tags": [
         "playing",
         "open"
@@ -1598,7 +1592,7 @@
       "beat": 157,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 26,
+      "songPercent": 23,
       "tags": [
         "playing",
         "open"
@@ -1608,7 +1602,7 @@
       "beat": 158,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 26,
+      "songPercent": 23,
       "tags": [
         "playing",
         "open"
@@ -1618,7 +1612,7 @@
       "beat": 159,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 26,
+      "songPercent": 24,
       "tags": [
         "playing",
         "open"
@@ -1628,7 +1622,7 @@
       "beat": 160,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 26,
+      "songPercent": 24,
       "tags": [
         "playing",
         "open"
@@ -1638,7 +1632,7 @@
       "beat": 161,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 26,
+      "songPercent": 24,
       "tags": [
         "playing",
         "open"
@@ -1648,7 +1642,7 @@
       "beat": 162,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 27,
+      "songPercent": 24,
       "tags": [
         "playing",
         "open"
@@ -1658,7 +1652,7 @@
       "beat": 163,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 27,
+      "songPercent": 24,
       "tags": [
         "playing",
         "open"
@@ -1668,7 +1662,7 @@
       "beat": 164,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 27,
+      "songPercent": 24,
       "tags": [
         "playing",
         "open"
@@ -1678,7 +1672,7 @@
       "beat": 165,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 27,
+      "songPercent": 25,
       "tags": [
         "playing",
         "open"
@@ -1688,7 +1682,7 @@
       "beat": 166,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 27,
+      "songPercent": 25,
       "tags": [
         "playing",
         "open"
@@ -1698,7 +1692,7 @@
       "beat": 167,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 27,
+      "songPercent": 25,
       "tags": [
         "playing",
         "open"
@@ -1708,7 +1702,7 @@
       "beat": 168,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 28,
+      "songPercent": 25,
       "tags": [
         "playing",
         "open"
@@ -1718,7 +1712,7 @@
       "beat": 169,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 28,
+      "songPercent": 25,
       "tags": [
         "playing",
         "open"
@@ -1728,7 +1722,7 @@
       "beat": 170,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 28,
+      "songPercent": 25,
       "tags": [
         "playing",
         "open"
@@ -1738,7 +1732,7 @@
       "beat": 171,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 28,
+      "songPercent": 25,
       "tags": [
         "playing",
         "open"
@@ -1748,7 +1742,7 @@
       "beat": 172,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 28,
+      "songPercent": 26,
       "tags": [
         "playing",
         "open"
@@ -1758,7 +1752,7 @@
       "beat": 173,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 28,
+      "songPercent": 26,
       "tags": [
         "playing",
         "open"
@@ -1768,7 +1762,7 @@
       "beat": 174,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 29,
+      "songPercent": 26,
       "tags": [
         "playing",
         "open"
@@ -1778,7 +1772,7 @@
       "beat": 175,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 29,
+      "songPercent": 26,
       "tags": [
         "playing",
         "open"
@@ -1788,7 +1782,7 @@
       "beat": 176,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 29,
+      "songPercent": 26,
       "tags": [
         "playing",
         "open"
@@ -1798,7 +1792,7 @@
       "beat": 177,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 29,
+      "songPercent": 26,
       "tags": [
         "playing",
         "open"
@@ -1808,7 +1802,7 @@
       "beat": 178,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 29,
+      "songPercent": 26,
       "tags": [
         "playing",
         "open"
@@ -1818,7 +1812,7 @@
       "beat": 179,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 29,
+      "songPercent": 27,
       "tags": [
         "playing",
         "open"
@@ -1828,205 +1822,187 @@
       "beat": 180,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 30,
+      "songPercent": 27,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 181,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 30,
+      "songPercent": 27,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 182,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 30,
+      "songPercent": 27,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 183,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 30,
+      "songPercent": 27,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 184,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 30,
+      "songPercent": 27,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 185,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 30,
+      "songPercent": 28,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 186,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 31,
+      "songPercent": 28,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 187,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 31,
+      "songPercent": 28,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 188,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 31,
+      "songPercent": 28,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 189,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 31,
+      "songPercent": 28,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 190,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 31,
+      "songPercent": 28,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 191,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 31,
+      "songPercent": 28,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 192,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 32,
+      "songPercent": 29,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 193,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 32,
+      "songPercent": 29,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 194,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 32,
+      "songPercent": 29,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 195,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 32,
+      "songPercent": 29,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 196,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 32,
+      "songPercent": 29,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 197,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 32,
+      "songPercent": 29,
       "tags": [
         "playing",
-        "open",
-        "dings"
+        "open"
       ]
     },
     {
       "beat": 198,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 33,
+      "songPercent": 30,
       "tags": [
         "playing",
         "open",
@@ -2037,7 +2013,7 @@
       "beat": 199,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 33,
+      "songPercent": 30,
       "tags": [
         "playing",
         "open",
@@ -2048,7 +2024,7 @@
       "beat": 200,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 33,
+      "songPercent": 30,
       "tags": [
         "playing",
         "open",
@@ -2059,7 +2035,7 @@
       "beat": 201,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 33,
+      "songPercent": 30,
       "tags": [
         "playing",
         "open",
@@ -2070,7 +2046,7 @@
       "beat": 202,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 33,
+      "songPercent": 30,
       "tags": [
         "playing",
         "open",
@@ -2081,7 +2057,7 @@
       "beat": 203,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 33,
+      "songPercent": 30,
       "tags": [
         "playing",
         "open",
@@ -2092,7 +2068,7 @@
       "beat": 204,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 34,
+      "songPercent": 30,
       "tags": [
         "playing",
         "open",
@@ -2103,7 +2079,7 @@
       "beat": 205,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 34,
+      "songPercent": 31,
       "tags": [
         "playing",
         "open",
@@ -2114,7 +2090,7 @@
       "beat": 206,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 34,
+      "songPercent": 31,
       "tags": [
         "playing",
         "open",
@@ -2125,7 +2101,7 @@
       "beat": 207,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 34,
+      "songPercent": 31,
       "tags": [
         "playing",
         "open",
@@ -2136,7 +2112,7 @@
       "beat": 208,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 34,
+      "songPercent": 31,
       "tags": [
         "playing",
         "open",
@@ -2147,7 +2123,7 @@
       "beat": 209,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 34,
+      "songPercent": 31,
       "tags": [
         "playing",
         "open",
@@ -2158,7 +2134,7 @@
       "beat": 210,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 35,
+      "songPercent": 31,
       "tags": [
         "playing",
         "open",
@@ -2169,7 +2145,7 @@
       "beat": 211,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 35,
+      "songPercent": 31,
       "tags": [
         "playing",
         "open",
@@ -2180,7 +2156,7 @@
       "beat": 212,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 35,
+      "songPercent": 32,
       "tags": [
         "playing",
         "open",
@@ -2191,7 +2167,7 @@
       "beat": 213,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 35,
+      "songPercent": 32,
       "tags": [
         "playing",
         "open",
@@ -2202,7 +2178,7 @@
       "beat": 214,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 35,
+      "songPercent": 32,
       "tags": [
         "playing",
         "open",
@@ -2213,7 +2189,7 @@
       "beat": 215,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 35,
+      "songPercent": 32,
       "tags": [
         "playing",
         "open",
@@ -2224,7 +2200,7 @@
       "beat": 216,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 36,
+      "songPercent": 32,
       "tags": [
         "playing",
         "open",
@@ -2235,7 +2211,7 @@
       "beat": 217,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 36,
+      "songPercent": 32,
       "tags": [
         "playing",
         "open",
@@ -2246,7 +2222,7 @@
       "beat": 218,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 36,
+      "songPercent": 33,
       "tags": [
         "playing",
         "open",
@@ -2257,7 +2233,7 @@
       "beat": 219,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 36,
+      "songPercent": 33,
       "tags": [
         "playing",
         "open",
@@ -2268,7 +2244,7 @@
       "beat": 220,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 36,
+      "songPercent": 33,
       "tags": [
         "playing",
         "open",
@@ -2279,7 +2255,7 @@
       "beat": 221,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 36,
+      "songPercent": 33,
       "tags": [
         "playing",
         "open",
@@ -2290,7 +2266,7 @@
       "beat": 222,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 37,
+      "songPercent": 33,
       "tags": [
         "playing",
         "open",
@@ -2301,7 +2277,7 @@
       "beat": 223,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 37,
+      "songPercent": 33,
       "tags": [
         "playing",
         "open",
@@ -2312,7 +2288,7 @@
       "beat": 224,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 37,
+      "songPercent": 33,
       "tags": [
         "playing",
         "open",
@@ -2323,7 +2299,7 @@
       "beat": 225,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 37,
+      "songPercent": 34,
       "tags": [
         "playing",
         "open",
@@ -2334,7 +2310,7 @@
       "beat": 226,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 37,
+      "songPercent": 34,
       "tags": [
         "playing",
         "open",
@@ -2345,7 +2321,7 @@
       "beat": 227,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 37,
+      "songPercent": 34,
       "tags": [
         "playing",
         "open",
@@ -2356,7 +2332,7 @@
       "beat": 228,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 38,
+      "songPercent": 34,
       "tags": [
         "playing",
         "open",
@@ -2367,7 +2343,7 @@
       "beat": 229,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 38,
+      "songPercent": 34,
       "tags": [
         "playing",
         "open",
@@ -2378,7 +2354,7 @@
       "beat": 230,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 38,
+      "songPercent": 34,
       "tags": [
         "playing",
         "open",
@@ -2389,7 +2365,7 @@
       "beat": 231,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 38,
+      "songPercent": 35,
       "tags": [
         "playing",
         "open",
@@ -2400,7 +2376,7 @@
       "beat": 232,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 38,
+      "songPercent": 35,
       "tags": [
         "playing",
         "open",
@@ -2411,7 +2387,7 @@
       "beat": 233,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 38,
+      "songPercent": 35,
       "tags": [
         "playing",
         "open",
@@ -2422,7 +2398,7 @@
       "beat": 234,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 39,
+      "songPercent": 35,
       "tags": [
         "playing",
         "open",
@@ -2433,7 +2409,7 @@
       "beat": 235,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 39,
+      "songPercent": 35,
       "tags": [
         "playing",
         "open",
@@ -2444,7 +2420,7 @@
       "beat": 236,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 39,
+      "songPercent": 35,
       "tags": [
         "playing",
         "open",
@@ -2455,7 +2431,7 @@
       "beat": 237,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 39,
+      "songPercent": 35,
       "tags": [
         "playing",
         "open",
@@ -2466,7 +2442,7 @@
       "beat": 238,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 39,
+      "songPercent": 36,
       "tags": [
         "playing",
         "open",
@@ -2477,7 +2453,7 @@
       "beat": 239,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 39,
+      "songPercent": 36,
       "tags": [
         "playing",
         "open",
@@ -2488,7 +2464,7 @@
       "beat": 240,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 40,
+      "songPercent": 36,
       "tags": [
         "playing",
         "open",
@@ -2499,7 +2475,7 @@
       "beat": 241,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 40,
+      "songPercent": 36,
       "tags": [
         "playing",
         "open",
@@ -2510,7 +2486,7 @@
       "beat": 242,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 40,
+      "songPercent": 36,
       "tags": [
         "playing",
         "open",
@@ -2521,7 +2497,7 @@
       "beat": 243,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 40,
+      "songPercent": 36,
       "tags": [
         "playing",
         "open",
@@ -2532,7 +2508,7 @@
       "beat": 244,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 40,
+      "songPercent": 36,
       "tags": [
         "playing",
         "open",
@@ -2543,7 +2519,7 @@
       "beat": 245,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 40,
+      "songPercent": 37,
       "tags": [
         "playing",
         "open",
@@ -2554,7 +2530,7 @@
       "beat": 246,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 41,
+      "songPercent": 37,
       "tags": [
         "playing",
         "open",
@@ -2565,7 +2541,7 @@
       "beat": 247,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 41,
+      "songPercent": 37,
       "tags": [
         "playing",
         "open",
@@ -2576,7 +2552,7 @@
       "beat": 248,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 41,
+      "songPercent": 37,
       "tags": [
         "playing",
         "open",
@@ -2587,7 +2563,7 @@
       "beat": 249,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 41,
+      "songPercent": 37,
       "tags": [
         "playing",
         "open",
@@ -2598,7 +2574,7 @@
       "beat": 250,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 41,
+      "songPercent": 37,
       "tags": [
         "playing",
         "open",
@@ -2609,7 +2585,7 @@
       "beat": 251,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 41,
+      "songPercent": 38,
       "tags": [
         "playing",
         "open",
@@ -2620,7 +2596,7 @@
       "beat": 252,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 42,
+      "songPercent": 38,
       "tags": [
         "playing",
         "open",
@@ -2631,7 +2607,7 @@
       "beat": 253,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 42,
+      "songPercent": 38,
       "tags": [
         "playing",
         "open",
@@ -2642,7 +2618,7 @@
       "beat": 254,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 42,
+      "songPercent": 38,
       "tags": [
         "playing",
         "open",
@@ -2653,7 +2629,7 @@
       "beat": 255,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 42,
+      "songPercent": 38,
       "tags": [
         "playing",
         "open",
@@ -2664,7 +2640,7 @@
       "beat": 256,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 42,
+      "songPercent": 38,
       "tags": [
         "playing",
         "open",
@@ -2675,7 +2651,7 @@
       "beat": 257,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 42,
+      "songPercent": 38,
       "tags": [
         "playing",
         "open",
@@ -2686,7 +2662,7 @@
       "beat": 258,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 43,
+      "songPercent": 39,
       "tags": [
         "playing",
         "open",
@@ -2697,7 +2673,7 @@
       "beat": 259,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 43,
+      "songPercent": 39,
       "tags": [
         "playing",
         "open",
@@ -2708,7 +2684,7 @@
       "beat": 260,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 43,
+      "songPercent": 39,
       "tags": [
         "playing",
         "open",
@@ -2719,7 +2695,7 @@
       "beat": 261,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 43,
+      "songPercent": 39,
       "tags": [
         "playing",
         "open",
@@ -2730,7 +2706,7 @@
       "beat": 262,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 43,
+      "songPercent": 39,
       "tags": [
         "playing",
         "open",
@@ -2741,7 +2717,7 @@
       "beat": 263,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 43,
+      "songPercent": 39,
       "tags": [
         "playing",
         "open",
@@ -2752,7 +2728,7 @@
       "beat": 264,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 44,
+      "songPercent": 40,
       "tags": [
         "playing",
         "open",
@@ -2763,7 +2739,7 @@
       "beat": 265,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 44,
+      "songPercent": 40,
       "tags": [
         "playing",
         "open",
@@ -2774,7 +2750,7 @@
       "beat": 266,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 44,
+      "songPercent": 40,
       "tags": [
         "playing",
         "open",
@@ -2785,7 +2761,7 @@
       "beat": 267,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 44,
+      "songPercent": 40,
       "tags": [
         "playing",
         "open",
@@ -2796,7 +2772,7 @@
       "beat": 268,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 44,
+      "songPercent": 40,
       "tags": [
         "playing",
         "open",
@@ -2807,7 +2783,7 @@
       "beat": 269,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 44,
+      "songPercent": 40,
       "tags": [
         "playing",
         "open",
@@ -2818,7 +2794,7 @@
       "beat": 270,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 45,
+      "songPercent": 40,
       "tags": [
         "playing",
         "open",
@@ -2829,7 +2805,7 @@
       "beat": 271,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 45,
+      "songPercent": 41,
       "tags": [
         "playing",
         "open",
@@ -2840,7 +2816,7 @@
       "beat": 272,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 45,
+      "songPercent": 41,
       "tags": [
         "playing",
         "open",
@@ -2851,7 +2827,7 @@
       "beat": 273,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 45,
+      "songPercent": 41,
       "tags": [
         "playing",
         "open",
@@ -2862,7 +2838,7 @@
       "beat": 274,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 45,
+      "songPercent": 41,
       "tags": [
         "playing",
         "open",
@@ -2873,7 +2849,7 @@
       "beat": 275,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 45,
+      "songPercent": 41,
       "tags": [
         "playing",
         "open",
@@ -2884,7 +2860,7 @@
       "beat": 276,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 46,
+      "songPercent": 41,
       "tags": [
         "playing",
         "open",
@@ -2895,7 +2871,7 @@
       "beat": 277,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 46,
+      "songPercent": 41,
       "tags": [
         "playing",
         "open",
@@ -2906,7 +2882,7 @@
       "beat": 278,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 46,
+      "songPercent": 42,
       "tags": [
         "playing",
         "open",
@@ -2917,7 +2893,7 @@
       "beat": 279,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 46,
+      "songPercent": 42,
       "tags": [
         "playing",
         "open",
@@ -2928,7 +2904,7 @@
       "beat": 280,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 46,
+      "songPercent": 42,
       "tags": [
         "playing",
         "open",
@@ -2939,7 +2915,7 @@
       "beat": 281,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 46,
+      "songPercent": 42,
       "tags": [
         "playing",
         "open",
@@ -2950,7 +2926,7 @@
       "beat": 282,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 47,
+      "songPercent": 42,
       "tags": [
         "playing",
         "open",
@@ -2961,7 +2937,7 @@
       "beat": 283,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 47,
+      "songPercent": 42,
       "tags": [
         "playing",
         "open",
@@ -2972,7 +2948,7 @@
       "beat": 284,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 47,
+      "songPercent": 43,
       "tags": [
         "playing",
         "open",
@@ -2983,7 +2959,7 @@
       "beat": 285,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 47,
+      "songPercent": 43,
       "tags": [
         "playing",
         "open",
@@ -2994,7 +2970,7 @@
       "beat": 286,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 47,
+      "songPercent": 43,
       "tags": [
         "playing",
         "open",
@@ -3005,7 +2981,7 @@
       "beat": 287,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 47,
+      "songPercent": 43,
       "tags": [
         "playing",
         "open",
@@ -3016,7 +2992,7 @@
       "beat": 288,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 48,
+      "songPercent": 43,
       "tags": [
         "playing",
         "open",
@@ -3027,7 +3003,7 @@
       "beat": 289,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 48,
+      "songPercent": 43,
       "tags": [
         "playing",
         "open",
@@ -3038,7 +3014,7 @@
       "beat": 290,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 48,
+      "songPercent": 43,
       "tags": [
         "playing",
         "open",
@@ -3049,7 +3025,7 @@
       "beat": 291,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 48,
+      "songPercent": 44,
       "tags": [
         "playing",
         "open",
@@ -3060,7 +3036,7 @@
       "beat": 292,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 48,
+      "songPercent": 44,
       "tags": [
         "playing",
         "open",
@@ -3071,7 +3047,7 @@
       "beat": 293,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 48,
+      "songPercent": 44,
       "tags": [
         "playing",
         "open",
@@ -3082,7 +3058,7 @@
       "beat": 294,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 49,
+      "songPercent": 44,
       "tags": [
         "playing",
         "open",
@@ -3093,7 +3069,7 @@
       "beat": 295,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 49,
+      "songPercent": 44,
       "tags": [
         "playing",
         "open",
@@ -3104,7 +3080,7 @@
       "beat": 296,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 49,
+      "songPercent": 44,
       "tags": [
         "playing",
         "open",
@@ -3115,7 +3091,7 @@
       "beat": 297,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 49,
+      "songPercent": 45,
       "tags": [
         "playing",
         "open",
@@ -3126,7 +3102,7 @@
       "beat": 298,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 49,
+      "songPercent": 45,
       "tags": [
         "playing",
         "open",
@@ -3137,7 +3113,7 @@
       "beat": 299,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 49,
+      "songPercent": 45,
       "tags": [
         "playing",
         "open",
@@ -3148,7 +3124,7 @@
       "beat": 300,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 50,
+      "songPercent": 45,
       "tags": [
         "playing",
         "open",
@@ -3159,7 +3135,7 @@
       "beat": 301,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 50,
+      "songPercent": 45,
       "tags": [
         "playing",
         "open",
@@ -3170,7 +3146,7 @@
       "beat": 302,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 50,
+      "songPercent": 45,
       "tags": [
         "playing",
         "open",
@@ -3181,7 +3157,7 @@
       "beat": 303,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 50,
+      "songPercent": 45,
       "tags": [
         "playing",
         "open",
@@ -3192,7 +3168,7 @@
       "beat": 304,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 50,
+      "songPercent": 46,
       "tags": [
         "playing",
         "open",
@@ -3203,7 +3179,7 @@
       "beat": 305,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 50,
+      "songPercent": 46,
       "tags": [
         "playing",
         "open",
@@ -3214,7 +3190,7 @@
       "beat": 306,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 51,
+      "songPercent": 46,
       "tags": [
         "playing",
         "open",
@@ -3225,7 +3201,7 @@
       "beat": 307,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 51,
+      "songPercent": 46,
       "tags": [
         "playing",
         "open",
@@ -3236,7 +3212,7 @@
       "beat": 308,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 51,
+      "songPercent": 46,
       "tags": [
         "playing",
         "open",
@@ -3247,7 +3223,7 @@
       "beat": 309,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 51,
+      "songPercent": 46,
       "tags": [
         "playing",
         "open",
@@ -3258,7 +3234,7 @@
       "beat": 310,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 51,
+      "songPercent": 46,
       "tags": [
         "playing",
         "open",
@@ -3269,7 +3245,7 @@
       "beat": 311,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 51,
+      "songPercent": 47,
       "tags": [
         "playing",
         "open",
@@ -3280,7 +3256,7 @@
       "beat": 312,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 52,
+      "songPercent": 47,
       "tags": [
         "playing",
         "open",
@@ -3291,7 +3267,7 @@
       "beat": 313,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 52,
+      "songPercent": 47,
       "tags": [
         "playing",
         "open",
@@ -3302,7 +3278,7 @@
       "beat": 314,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 52,
+      "songPercent": 47,
       "tags": [
         "playing",
         "open",
@@ -3313,7 +3289,7 @@
       "beat": 315,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 52,
+      "songPercent": 47,
       "tags": [
         "playing",
         "open",
@@ -3324,7 +3300,7 @@
       "beat": 316,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 52,
+      "songPercent": 47,
       "tags": [
         "playing",
         "open",
@@ -3335,7 +3311,7 @@
       "beat": 317,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 52,
+      "songPercent": 48,
       "tags": [
         "playing",
         "open",
@@ -3346,7 +3322,7 @@
       "beat": 318,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 53,
+      "songPercent": 48,
       "tags": [
         "playing",
         "open",
@@ -3357,7 +3333,7 @@
       "beat": 319,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 53,
+      "songPercent": 48,
       "tags": [
         "playing",
         "open",
@@ -3368,7 +3344,7 @@
       "beat": 320,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 53,
+      "songPercent": 48,
       "tags": [
         "playing",
         "open",
@@ -3379,7 +3355,7 @@
       "beat": 321,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 53,
+      "songPercent": 48,
       "tags": [
         "playing",
         "open",
@@ -3390,7 +3366,7 @@
       "beat": 322,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 53,
+      "songPercent": 48,
       "tags": [
         "playing",
         "open",
@@ -3401,7 +3377,7 @@
       "beat": 323,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 53,
+      "songPercent": 48,
       "tags": [
         "playing",
         "open",
@@ -3412,7 +3388,7 @@
       "beat": 324,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 54,
+      "songPercent": 49,
       "tags": [
         "playing",
         "open",
@@ -3423,7 +3399,7 @@
       "beat": 325,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 54,
+      "songPercent": 49,
       "tags": [
         "playing",
         "open",
@@ -3434,7 +3410,7 @@
       "beat": 326,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 54,
+      "songPercent": 49,
       "tags": [
         "playing",
         "open",
@@ -3445,7 +3421,7 @@
       "beat": 327,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 54,
+      "songPercent": 49,
       "tags": [
         "playing",
         "open",
@@ -3456,7 +3432,7 @@
       "beat": 328,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 54,
+      "songPercent": 49,
       "tags": [
         "playing",
         "open",
@@ -3467,7 +3443,7 @@
       "beat": 329,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 54,
+      "songPercent": 49,
       "tags": [
         "playing",
         "open",
@@ -3478,7 +3454,7 @@
       "beat": 330,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 55,
+      "songPercent": 50,
       "tags": [
         "playing",
         "open",
@@ -3489,7 +3465,7 @@
       "beat": 331,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 55,
+      "songPercent": 50,
       "tags": [
         "playing",
         "open",
@@ -3500,7 +3476,7 @@
       "beat": 332,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 55,
+      "songPercent": 50,
       "tags": [
         "playing",
         "open",
@@ -3511,7 +3487,7 @@
       "beat": 333,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 55,
+      "songPercent": 50,
       "tags": [
         "playing",
         "open",
@@ -3522,7 +3498,7 @@
       "beat": 334,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 55,
+      "songPercent": 50,
       "tags": [
         "playing",
         "open",
@@ -3533,7 +3509,7 @@
       "beat": 335,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 55,
+      "songPercent": 50,
       "tags": [
         "playing",
         "open",
@@ -3544,7 +3520,7 @@
       "beat": 336,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 56,
+      "songPercent": 50,
       "tags": [
         "playing",
         "open",
@@ -3555,7 +3531,7 @@
       "beat": 337,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 56,
+      "songPercent": 51,
       "tags": [
         "playing",
         "open",
@@ -3566,7 +3542,7 @@
       "beat": 338,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 56,
+      "songPercent": 51,
       "tags": [
         "playing",
         "open",
@@ -3577,7 +3553,7 @@
       "beat": 339,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 56,
+      "songPercent": 51,
       "tags": [
         "playing",
         "open",
@@ -3588,7 +3564,7 @@
       "beat": 340,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 56,
+      "songPercent": 51,
       "tags": [
         "playing",
         "open",
@@ -3599,7 +3575,7 @@
       "beat": 341,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 56,
+      "songPercent": 51,
       "tags": [
         "playing",
         "open",
@@ -3610,7 +3586,7 @@
       "beat": 342,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 57,
+      "songPercent": 51,
       "tags": [
         "playing",
         "open",
@@ -3621,7 +3597,7 @@
       "beat": 343,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 57,
+      "songPercent": 51,
       "tags": [
         "playing",
         "open",
@@ -3632,7 +3608,7 @@
       "beat": 344,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 57,
+      "songPercent": 52,
       "tags": [
         "playing",
         "open",
@@ -3643,7 +3619,7 @@
       "beat": 345,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 57,
+      "songPercent": 52,
       "tags": [
         "playing",
         "open",
@@ -3654,7 +3630,7 @@
       "beat": 346,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 57,
+      "songPercent": 52,
       "tags": [
         "playing",
         "open",
@@ -3665,7 +3641,7 @@
       "beat": 347,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 57,
+      "songPercent": 52,
       "tags": [
         "playing",
         "open",
@@ -3676,7 +3652,7 @@
       "beat": 348,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 58,
+      "songPercent": 52,
       "tags": [
         "playing",
         "open",
@@ -3687,7 +3663,7 @@
       "beat": 349,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 58,
+      "songPercent": 52,
       "tags": [
         "playing",
         "open",
@@ -3698,7 +3674,7 @@
       "beat": 350,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 58,
+      "songPercent": 53,
       "tags": [
         "playing",
         "open",
@@ -3709,7 +3685,7 @@
       "beat": 351,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 58,
+      "songPercent": 53,
       "tags": [
         "playing",
         "open",
@@ -3720,7 +3696,7 @@
       "beat": 352,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 58,
+      "songPercent": 53,
       "tags": [
         "playing",
         "open",
@@ -3731,7 +3707,7 @@
       "beat": 353,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 58,
+      "songPercent": 53,
       "tags": [
         "playing",
         "open",
@@ -3742,7 +3718,7 @@
       "beat": 354,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 59,
+      "songPercent": 53,
       "tags": [
         "playing",
         "open",
@@ -3753,7 +3729,7 @@
       "beat": 355,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 59,
+      "songPercent": 53,
       "tags": [
         "playing",
         "open",
@@ -3764,7 +3740,7 @@
       "beat": 356,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 59,
+      "songPercent": 53,
       "tags": [
         "playing",
         "open",
@@ -3775,7 +3751,7 @@
       "beat": 357,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 59,
+      "songPercent": 54,
       "tags": [
         "playing",
         "open",
@@ -3786,7 +3762,7 @@
       "beat": 358,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 59,
+      "songPercent": 54,
       "tags": [
         "playing",
         "open",
@@ -3797,7 +3773,7 @@
       "beat": 359,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 59,
+      "songPercent": 54,
       "tags": [
         "playing",
         "open",
@@ -3808,439 +3784,403 @@
       "beat": 360,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 60,
+      "songPercent": 54,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 361,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 60,
+      "songPercent": 54,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 362,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 60,
+      "songPercent": 54,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 363,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 60,
+      "songPercent": 55,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 364,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 60,
+      "songPercent": 55,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 365,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 60,
+      "songPercent": 55,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 366,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 61,
+      "songPercent": 55,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 367,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 61,
+      "songPercent": 55,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 368,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 61,
+      "songPercent": 55,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 369,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 61,
+      "songPercent": 55,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 370,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 61,
+      "songPercent": 56,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 371,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 61,
+      "songPercent": 56,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 372,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 62,
+      "songPercent": 56,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 373,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 62,
+      "songPercent": 56,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 374,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 62,
+      "songPercent": 56,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 375,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 62,
+      "songPercent": 56,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 376,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 62,
+      "songPercent": 56,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 377,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 62,
+      "songPercent": 57,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 378,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 63,
+      "songPercent": 57,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 379,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 63,
+      "songPercent": 57,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 380,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 63,
+      "songPercent": 57,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 381,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 63,
+      "songPercent": 57,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 382,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 63,
+      "songPercent": 57,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 383,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 63,
+      "songPercent": 58,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 384,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 64,
+      "songPercent": 58,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 385,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 64,
+      "songPercent": 58,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 386,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 64,
+      "songPercent": 58,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 387,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 64,
+      "songPercent": 58,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 388,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 64,
+      "songPercent": 58,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 389,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 64,
+      "songPercent": 58,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 390,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 65,
+      "songPercent": 59,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 391,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 65,
+      "songPercent": 59,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 392,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 65,
+      "songPercent": 59,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 393,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 65,
+      "songPercent": 59,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 394,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 65,
+      "songPercent": 59,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 395,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 65,
+      "songPercent": 59,
       "tags": [
         "playing",
         "open",
-        "dings",
-        "rise"
+        "dings"
       ]
     },
     {
       "beat": 396,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 66,
+      "songPercent": 60,
       "tags": [
         "playing",
         "open",
@@ -4252,7 +4192,7 @@
       "beat": 397,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 66,
+      "songPercent": 60,
       "tags": [
         "playing",
         "open",
@@ -4264,7 +4204,7 @@
       "beat": 398,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 66,
+      "songPercent": 60,
       "tags": [
         "playing",
         "open",
@@ -4276,7 +4216,7 @@
       "beat": 399,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 66,
+      "songPercent": 60,
       "tags": [
         "playing",
         "open",
@@ -4288,7 +4228,7 @@
       "beat": 400,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 66,
+      "songPercent": 60,
       "tags": [
         "playing",
         "open",
@@ -4300,7 +4240,7 @@
       "beat": 401,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 66,
+      "songPercent": 60,
       "tags": [
         "playing",
         "open",
@@ -4312,7 +4252,7 @@
       "beat": 402,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 67,
+      "songPercent": 60,
       "tags": [
         "playing",
         "open",
@@ -4324,7 +4264,7 @@
       "beat": 403,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 67,
+      "songPercent": 61,
       "tags": [
         "playing",
         "open",
@@ -4336,7 +4276,7 @@
       "beat": 404,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 67,
+      "songPercent": 61,
       "tags": [
         "playing",
         "open",
@@ -4348,7 +4288,7 @@
       "beat": 405,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 67,
+      "songPercent": 61,
       "tags": [
         "playing",
         "open",
@@ -4360,7 +4300,7 @@
       "beat": 406,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 67,
+      "songPercent": 61,
       "tags": [
         "playing",
         "open",
@@ -4372,7 +4312,7 @@
       "beat": 407,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 67,
+      "songPercent": 61,
       "tags": [
         "playing",
         "open",
@@ -4384,7 +4324,7 @@
       "beat": 408,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 68,
+      "songPercent": 61,
       "tags": [
         "playing",
         "open",
@@ -4396,7 +4336,7 @@
       "beat": 409,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 68,
+      "songPercent": 61,
       "tags": [
         "playing",
         "open",
@@ -4408,7 +4348,7 @@
       "beat": 410,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 68,
+      "songPercent": 62,
       "tags": [
         "playing",
         "open",
@@ -4420,7 +4360,7 @@
       "beat": 411,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 68,
+      "songPercent": 62,
       "tags": [
         "playing",
         "open",
@@ -4432,7 +4372,7 @@
       "beat": 412,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 68,
+      "songPercent": 62,
       "tags": [
         "playing",
         "open",
@@ -4444,7 +4384,7 @@
       "beat": 413,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 68,
+      "songPercent": 62,
       "tags": [
         "playing",
         "open",
@@ -4456,7 +4396,7 @@
       "beat": 414,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 69,
+      "songPercent": 62,
       "tags": [
         "playing",
         "open",
@@ -4468,7 +4408,7 @@
       "beat": 415,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 69,
+      "songPercent": 62,
       "tags": [
         "playing",
         "open",
@@ -4480,7 +4420,7 @@
       "beat": 416,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 69,
+      "songPercent": 63,
       "tags": [
         "playing",
         "open",
@@ -4492,7 +4432,7 @@
       "beat": 417,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 69,
+      "songPercent": 63,
       "tags": [
         "playing",
         "open",
@@ -4504,7 +4444,7 @@
       "beat": 418,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 69,
+      "songPercent": 63,
       "tags": [
         "playing",
         "open",
@@ -4516,7 +4456,7 @@
       "beat": 419,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 69,
+      "songPercent": 63,
       "tags": [
         "playing",
         "open",
@@ -4528,511 +4468,511 @@
       "beat": 420,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 70,
+      "songPercent": 63,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 421,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 70,
+      "songPercent": 63,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 422,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 70,
+      "songPercent": 63,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 423,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 70,
+      "songPercent": 64,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 424,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 70,
+      "songPercent": 64,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 425,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 70,
+      "songPercent": 64,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 426,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 71,
+      "songPercent": 64,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 427,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 71,
+      "songPercent": 64,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 428,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 71,
+      "songPercent": 64,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 429,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 71,
+      "songPercent": 65,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 430,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 71,
+      "songPercent": 65,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 431,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 71,
+      "songPercent": 65,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 432,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 72,
+      "songPercent": 65,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 433,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 72,
+      "songPercent": 65,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 434,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 72,
+      "songPercent": 65,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 435,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 72,
+      "songPercent": 65,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 436,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 72,
+      "songPercent": 66,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 437,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 72,
+      "songPercent": 66,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 438,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 73,
+      "songPercent": 66,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 439,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 73,
+      "songPercent": 66,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 440,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 73,
+      "songPercent": 66,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 441,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 73,
+      "songPercent": 66,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 442,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 73,
+      "songPercent": 66,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 443,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 73,
+      "songPercent": 67,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 444,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 74,
+      "songPercent": 67,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 445,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 74,
+      "songPercent": 67,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 446,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 74,
+      "songPercent": 67,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 447,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 74,
+      "songPercent": 67,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 448,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 74,
+      "songPercent": 67,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 449,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 74,
+      "songPercent": 68,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 450,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 75,
+      "songPercent": 68,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 451,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 75,
+      "songPercent": 68,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 452,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 75,
+      "songPercent": 68,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 453,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 75,
+      "songPercent": 68,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 454,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 75,
+      "songPercent": 68,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 455,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 75,
+      "songPercent": 68,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 456,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 76,
+      "songPercent": 69,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 457,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 76,
+      "songPercent": 69,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 458,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 76,
+      "songPercent": 69,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 459,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 76,
+      "songPercent": 69,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 460,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 76,
+      "songPercent": 69,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 461,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 76,
+      "songPercent": 69,
       "tags": [
         "playing",
+        "open",
         "dings",
-        "drop",
-        "voices"
+        "rise"
       ]
     },
     {
       "beat": 462,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 77,
+      "songPercent": 70,
       "tags": [
         "playing",
         "dings",
@@ -5044,7 +4984,7 @@
       "beat": 463,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 77,
+      "songPercent": 70,
       "tags": [
         "playing",
         "dings",
@@ -5056,7 +4996,7 @@
       "beat": 464,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 77,
+      "songPercent": 70,
       "tags": [
         "playing",
         "dings",
@@ -5068,7 +5008,7 @@
       "beat": 465,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 77,
+      "songPercent": 70,
       "tags": [
         "playing",
         "dings",
@@ -5080,7 +5020,7 @@
       "beat": 466,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 77,
+      "songPercent": 70,
       "tags": [
         "playing",
         "dings",
@@ -5092,7 +5032,7 @@
       "beat": 467,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 77,
+      "songPercent": 70,
       "tags": [
         "playing",
         "dings",
@@ -5104,7 +5044,7 @@
       "beat": 468,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 78,
+      "songPercent": 70,
       "tags": [
         "playing",
         "dings",
@@ -5116,7 +5056,7 @@
       "beat": 469,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 78,
+      "songPercent": 71,
       "tags": [
         "playing",
         "dings",
@@ -5128,7 +5068,7 @@
       "beat": 470,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 78,
+      "songPercent": 71,
       "tags": [
         "playing",
         "dings",
@@ -5140,7 +5080,7 @@
       "beat": 471,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 78,
+      "songPercent": 71,
       "tags": [
         "playing",
         "dings",
@@ -5152,7 +5092,7 @@
       "beat": 472,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 78,
+      "songPercent": 71,
       "tags": [
         "playing",
         "dings",
@@ -5164,7 +5104,7 @@
       "beat": 473,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 78,
+      "songPercent": 71,
       "tags": [
         "playing",
         "dings",
@@ -5176,7 +5116,7 @@
       "beat": 474,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 79,
+      "songPercent": 71,
       "tags": [
         "playing",
         "dings",
@@ -5188,7 +5128,7 @@
       "beat": 475,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 79,
+      "songPercent": 71,
       "tags": [
         "playing",
         "dings",
@@ -5200,7 +5140,7 @@
       "beat": 476,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 79,
+      "songPercent": 72,
       "tags": [
         "playing",
         "dings",
@@ -5212,7 +5152,7 @@
       "beat": 477,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 79,
+      "songPercent": 72,
       "tags": [
         "playing",
         "dings",
@@ -5224,7 +5164,7 @@
       "beat": 478,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 79,
+      "songPercent": 72,
       "tags": [
         "playing",
         "dings",
@@ -5236,7 +5176,7 @@
       "beat": 479,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 79,
+      "songPercent": 72,
       "tags": [
         "playing",
         "dings",
@@ -5248,7 +5188,7 @@
       "beat": 480,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 80,
+      "songPercent": 72,
       "tags": [
         "playing",
         "dings",
@@ -5260,7 +5200,7 @@
       "beat": 481,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 80,
+      "songPercent": 72,
       "tags": [
         "playing",
         "dings",
@@ -5272,7 +5212,7 @@
       "beat": 482,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 80,
+      "songPercent": 73,
       "tags": [
         "playing",
         "dings",
@@ -5284,7 +5224,7 @@
       "beat": 483,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 80,
+      "songPercent": 73,
       "tags": [
         "playing",
         "dings",
@@ -5296,7 +5236,7 @@
       "beat": 484,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 80,
+      "songPercent": 73,
       "tags": [
         "playing",
         "dings",
@@ -5308,7 +5248,7 @@
       "beat": 485,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 80,
+      "songPercent": 73,
       "tags": [
         "playing",
         "dings",
@@ -5320,7 +5260,7 @@
       "beat": 486,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 81,
+      "songPercent": 73,
       "tags": [
         "playing",
         "dings",
@@ -5332,7 +5272,7 @@
       "beat": 487,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 81,
+      "songPercent": 73,
       "tags": [
         "playing",
         "dings",
@@ -5344,7 +5284,7 @@
       "beat": 488,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 81,
+      "songPercent": 73,
       "tags": [
         "playing",
         "dings",
@@ -5356,7 +5296,7 @@
       "beat": 489,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 81,
+      "songPercent": 74,
       "tags": [
         "playing",
         "dings",
@@ -5368,7 +5308,7 @@
       "beat": 490,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 81,
+      "songPercent": 74,
       "tags": [
         "playing",
         "dings",
@@ -5380,7 +5320,7 @@
       "beat": 491,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 81,
+      "songPercent": 74,
       "tags": [
         "playing",
         "dings",
@@ -5392,7 +5332,7 @@
       "beat": 492,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 82,
+      "songPercent": 74,
       "tags": [
         "playing",
         "dings",
@@ -5404,7 +5344,7 @@
       "beat": 493,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 82,
+      "songPercent": 74,
       "tags": [
         "playing",
         "dings",
@@ -5416,7 +5356,7 @@
       "beat": 494,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 82,
+      "songPercent": 74,
       "tags": [
         "playing",
         "dings",
@@ -5428,7 +5368,7 @@
       "beat": 495,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 82,
+      "songPercent": 75,
       "tags": [
         "playing",
         "dings",
@@ -5440,7 +5380,7 @@
       "beat": 496,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 82,
+      "songPercent": 75,
       "tags": [
         "playing",
         "dings",
@@ -5452,7 +5392,7 @@
       "beat": 497,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 82,
+      "songPercent": 75,
       "tags": [
         "playing",
         "dings",
@@ -5464,7 +5404,7 @@
       "beat": 498,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 83,
+      "songPercent": 75,
       "tags": [
         "playing",
         "dings",
@@ -5476,7 +5416,7 @@
       "beat": 499,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 83,
+      "songPercent": 75,
       "tags": [
         "playing",
         "dings",
@@ -5488,7 +5428,7 @@
       "beat": 500,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 83,
+      "songPercent": 75,
       "tags": [
         "playing",
         "dings",
@@ -5500,7 +5440,7 @@
       "beat": 501,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 83,
+      "songPercent": 75,
       "tags": [
         "playing",
         "dings",
@@ -5512,7 +5452,7 @@
       "beat": 502,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 83,
+      "songPercent": 76,
       "tags": [
         "playing",
         "dings",
@@ -5524,7 +5464,7 @@
       "beat": 503,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 83,
+      "songPercent": 76,
       "tags": [
         "playing",
         "dings",
@@ -5536,7 +5476,7 @@
       "beat": 504,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 84,
+      "songPercent": 76,
       "tags": [
         "playing",
         "dings",
@@ -5548,7 +5488,7 @@
       "beat": 505,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 84,
+      "songPercent": 76,
       "tags": [
         "playing",
         "dings",
@@ -5560,7 +5500,7 @@
       "beat": 506,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 84,
+      "songPercent": 76,
       "tags": [
         "playing",
         "dings",
@@ -5572,7 +5512,7 @@
       "beat": 507,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 84,
+      "songPercent": 76,
       "tags": [
         "playing",
         "dings",
@@ -5584,7 +5524,7 @@
       "beat": 508,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 84,
+      "songPercent": 76,
       "tags": [
         "playing",
         "dings",
@@ -5596,7 +5536,7 @@
       "beat": 509,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 84,
+      "songPercent": 77,
       "tags": [
         "playing",
         "dings",
@@ -5608,7 +5548,7 @@
       "beat": 510,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 85,
+      "songPercent": 77,
       "tags": [
         "playing",
         "dings",
@@ -5620,7 +5560,7 @@
       "beat": 511,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 85,
+      "songPercent": 77,
       "tags": [
         "playing",
         "dings",
@@ -5632,7 +5572,7 @@
       "beat": 512,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 85,
+      "songPercent": 77,
       "tags": [
         "playing",
         "dings",
@@ -5644,7 +5584,7 @@
       "beat": 513,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 85,
+      "songPercent": 77,
       "tags": [
         "playing",
         "dings",
@@ -5656,7 +5596,7 @@
       "beat": 514,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 85,
+      "songPercent": 77,
       "tags": [
         "playing",
         "dings",
@@ -5668,7 +5608,7 @@
       "beat": 515,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 85,
+      "songPercent": 78,
       "tags": [
         "playing",
         "dings",
@@ -5680,7 +5620,7 @@
       "beat": 516,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 86,
+      "songPercent": 78,
       "tags": [
         "playing",
         "dings",
@@ -5692,7 +5632,7 @@
       "beat": 517,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 86,
+      "songPercent": 78,
       "tags": [
         "playing",
         "dings",
@@ -5704,7 +5644,7 @@
       "beat": 518,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 86,
+      "songPercent": 78,
       "tags": [
         "playing",
         "dings",
@@ -5716,7 +5656,7 @@
       "beat": 519,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 86,
+      "songPercent": 78,
       "tags": [
         "playing",
         "dings",
@@ -5728,7 +5668,7 @@
       "beat": 520,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 86,
+      "songPercent": 78,
       "tags": [
         "playing",
         "dings",
@@ -5740,7 +5680,7 @@
       "beat": 521,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 86,
+      "songPercent": 78,
       "tags": [
         "playing",
         "dings",
@@ -5752,7 +5692,7 @@
       "beat": 522,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 87,
+      "songPercent": 79,
       "tags": [
         "playing",
         "dings",
@@ -5764,7 +5704,7 @@
       "beat": 523,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 87,
+      "songPercent": 79,
       "tags": [
         "playing",
         "dings",
@@ -5776,7 +5716,7 @@
       "beat": 524,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 87,
+      "songPercent": 79,
       "tags": [
         "playing",
         "dings",
@@ -5788,7 +5728,7 @@
       "beat": 525,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 87,
+      "songPercent": 79,
       "tags": [
         "playing",
         "dings",
@@ -5800,7 +5740,7 @@
       "beat": 526,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 87,
+      "songPercent": 79,
       "tags": [
         "playing",
         "dings",
@@ -5812,7 +5752,7 @@
       "beat": 527,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 87,
+      "songPercent": 79,
       "tags": [
         "playing",
         "dings",
@@ -5824,7 +5764,7 @@
       "beat": 528,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 88,
+      "songPercent": 80,
       "tags": [
         "playing",
         "dings",
@@ -5836,7 +5776,7 @@
       "beat": 529,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 88,
+      "songPercent": 80,
       "tags": [
         "playing",
         "dings",
@@ -5848,7 +5788,7 @@
       "beat": 530,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 88,
+      "songPercent": 80,
       "tags": [
         "playing",
         "dings",
@@ -5860,7 +5800,7 @@
       "beat": 531,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 88,
+      "songPercent": 80,
       "tags": [
         "playing",
         "dings",
@@ -5872,7 +5812,7 @@
       "beat": 532,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 88,
+      "songPercent": 80,
       "tags": [
         "playing",
         "dings",
@@ -5884,7 +5824,7 @@
       "beat": 533,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 88,
+      "songPercent": 80,
       "tags": [
         "playing",
         "dings",
@@ -5896,7 +5836,7 @@
       "beat": 534,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 89,
+      "songPercent": 80,
       "tags": [
         "playing",
         "dings",
@@ -5908,7 +5848,7 @@
       "beat": 535,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 89,
+      "songPercent": 81,
       "tags": [
         "playing",
         "dings",
@@ -5920,7 +5860,7 @@
       "beat": 536,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 89,
+      "songPercent": 81,
       "tags": [
         "playing",
         "dings",
@@ -5932,7 +5872,7 @@
       "beat": 537,
       "bar": 2,
       "barPercent": 37,
-      "songPercent": 89,
+      "songPercent": 81,
       "tags": [
         "playing",
         "dings",
@@ -5944,7 +5884,7 @@
       "beat": 538,
       "bar": 3,
       "barPercent": 50,
-      "songPercent": 89,
+      "songPercent": 81,
       "tags": [
         "playing",
         "dings",
@@ -5956,7 +5896,7 @@
       "beat": 539,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 89,
+      "songPercent": 81,
       "tags": [
         "playing",
         "dings",
@@ -5968,66 +5908,654 @@
       "beat": 540,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 90,
+      "songPercent": 81,
       "tags": [
         "playing",
-        "voices",
-        "resume",
-        "ending"
+        "dings",
+        "drop",
+        "voices"
       ]
     },
     {
       "beat": 541,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 90,
+      "songPercent": 81,
       "tags": [
         "playing",
-        "voices",
-        "resume",
-        "ending"
+        "dings",
+        "drop",
+        "voices"
       ]
     },
     {
       "beat": 542,
       "bar": 7,
       "barPercent": 100,
-      "songPercent": 90,
+      "songPercent": 82,
       "tags": [
         "playing",
-        "voices",
-        "resume",
-        "ending"
+        "dings",
+        "drop",
+        "voices"
       ]
     },
     {
       "beat": 543,
       "bar": 0,
       "barPercent": 12,
-      "songPercent": 90,
+      "songPercent": 82,
       "tags": [
         "playing",
-        "voices",
-        "resume",
-        "ending"
+        "dings",
+        "drop",
+        "voices"
       ]
     },
     {
       "beat": 544,
       "bar": 1,
       "barPercent": 25,
-      "songPercent": 90,
+      "songPercent": 82,
       "tags": [
         "playing",
-        "voices",
-        "resume",
-        "ending"
+        "dings",
+        "drop",
+        "voices"
       ]
     },
     {
       "beat": 545,
       "bar": 2,
       "barPercent": 37,
+      "songPercent": 82,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 546,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 82,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 547,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 82,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 548,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 83,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 549,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 83,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 550,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 83,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 551,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 83,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 552,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 83,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 553,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 83,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 554,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 83,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 555,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 84,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 556,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 84,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 557,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 84,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 558,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 84,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 559,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 84,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 560,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 84,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 561,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 85,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 562,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 85,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 563,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 85,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 564,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 85,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 565,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 85,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 566,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 85,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 567,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 85,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 568,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 86,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 569,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 86,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 570,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 86,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 571,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 86,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 572,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 86,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 573,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 86,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 574,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 86,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 575,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 87,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 576,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 87,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 577,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 87,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 578,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 87,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 579,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 87,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 580,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 87,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 581,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 88,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 582,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 88,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 583,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 88,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 584,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 88,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 585,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 88,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 586,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 88,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 587,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 88,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 588,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 89,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 589,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 89,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 590,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 89,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 591,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 89,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 592,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 89,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 593,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 89,
+      "tags": [
+        "playing",
+        "dings",
+        "drop",
+        "voices"
+      ]
+    },
+    {
+      "beat": 594,
+      "bar": 3,
+      "barPercent": 50,
       "songPercent": 90,
       "tags": [
         "playing",
@@ -6037,673 +6565,82 @@
       ]
     },
     {
-      "beat": 546,
-      "bar": 3,
-      "barPercent": 50,
-      "songPercent": 91,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 547,
-      "bar": 4,
-      "barPercent": 62,
-      "songPercent": 91,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 548,
-      "bar": 5,
-      "barPercent": 75,
-      "songPercent": 91,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 549,
-      "bar": 6,
-      "barPercent": 87,
-      "songPercent": 91,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 550,
-      "bar": 7,
-      "barPercent": 100,
-      "songPercent": 91,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 551,
-      "bar": 0,
-      "barPercent": 12,
-      "songPercent": 91,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 552,
-      "bar": 1,
-      "barPercent": 25,
-      "songPercent": 92,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 553,
-      "bar": 2,
-      "barPercent": 37,
-      "songPercent": 92,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 554,
-      "bar": 3,
-      "barPercent": 50,
-      "songPercent": 92,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 555,
-      "bar": 4,
-      "barPercent": 62,
-      "songPercent": 92,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 556,
-      "bar": 5,
-      "barPercent": 75,
-      "songPercent": 92,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 557,
-      "bar": 6,
-      "barPercent": 87,
-      "songPercent": 92,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 558,
-      "bar": 7,
-      "barPercent": 100,
-      "songPercent": 93,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 559,
-      "bar": 0,
-      "barPercent": 12,
-      "songPercent": 93,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 560,
-      "bar": 1,
-      "barPercent": 25,
-      "songPercent": 93,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 561,
-      "bar": 2,
-      "barPercent": 37,
-      "songPercent": 93,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 562,
-      "bar": 3,
-      "barPercent": 50,
-      "songPercent": 93,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 563,
-      "bar": 4,
-      "barPercent": 62,
-      "songPercent": 93,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 564,
-      "bar": 5,
-      "barPercent": 75,
-      "songPercent": 94,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 565,
-      "bar": 6,
-      "barPercent": 87,
-      "songPercent": 94,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 566,
-      "bar": 7,
-      "barPercent": 100,
-      "songPercent": 94,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 567,
-      "bar": 0,
-      "barPercent": 12,
-      "songPercent": 94,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 568,
-      "bar": 1,
-      "barPercent": 25,
-      "songPercent": 94,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 569,
-      "bar": 2,
-      "barPercent": 37,
-      "songPercent": 94,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 570,
-      "bar": 3,
-      "barPercent": 50,
-      "songPercent": 95,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 571,
-      "bar": 4,
-      "barPercent": 62,
-      "songPercent": 95,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 572,
-      "bar": 5,
-      "barPercent": 75,
-      "songPercent": 95,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 573,
-      "bar": 6,
-      "barPercent": 87,
-      "songPercent": 95,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 574,
-      "bar": 7,
-      "barPercent": 100,
-      "songPercent": 95,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 575,
-      "bar": 0,
-      "barPercent": 12,
-      "songPercent": 95,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 576,
-      "bar": 1,
-      "barPercent": 25,
-      "songPercent": 96,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 577,
-      "bar": 2,
-      "barPercent": 37,
-      "songPercent": 96,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 578,
-      "bar": 3,
-      "barPercent": 50,
-      "songPercent": 96,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 579,
-      "bar": 4,
-      "barPercent": 62,
-      "songPercent": 96,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 580,
-      "bar": 5,
-      "barPercent": 75,
-      "songPercent": 96,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 581,
-      "bar": 6,
-      "barPercent": 87,
-      "songPercent": 96,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 582,
-      "bar": 7,
-      "barPercent": 100,
-      "songPercent": 97,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 583,
-      "bar": 0,
-      "barPercent": 12,
-      "songPercent": 97,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 584,
-      "bar": 1,
-      "barPercent": 25,
-      "songPercent": 97,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 585,
-      "bar": 2,
-      "barPercent": 37,
-      "songPercent": 97,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 586,
-      "bar": 3,
-      "barPercent": 50,
-      "songPercent": 97,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 587,
-      "bar": 4,
-      "barPercent": 62,
-      "songPercent": 97,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 588,
-      "bar": 5,
-      "barPercent": 75,
-      "songPercent": 98,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 589,
-      "bar": 6,
-      "barPercent": 87,
-      "songPercent": 98,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 590,
-      "bar": 7,
-      "barPercent": 100,
-      "songPercent": 98,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 591,
-      "bar": 0,
-      "barPercent": 12,
-      "songPercent": 98,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 592,
-      "bar": 1,
-      "barPercent": 25,
-      "songPercent": 98,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 593,
-      "bar": 2,
-      "barPercent": 37,
-      "songPercent": 98,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
-      "beat": 594,
-      "bar": 3,
-      "barPercent": 50,
-      "songPercent": 99,
-      "tags": [
-        "playing",
-        "resume",
-        "ending",
-        "close",
-        "closing"
-      ]
-    },
-    {
       "beat": 595,
       "bar": 4,
       "barPercent": 62,
-      "songPercent": 99,
+      "songPercent": 90,
       "tags": [
         "playing",
+        "voices",
         "resume",
-        "ending",
-        "close",
-        "closing"
+        "ending"
       ]
     },
     {
       "beat": 596,
       "bar": 5,
       "barPercent": 75,
-      "songPercent": 99,
+      "songPercent": 90,
       "tags": [
         "playing",
+        "voices",
         "resume",
-        "ending",
-        "close",
-        "closing"
+        "ending"
       ]
     },
     {
       "beat": 597,
       "bar": 6,
       "barPercent": 87,
-      "songPercent": 99,
+      "songPercent": 90,
+      "tags": [
+        "playing",
+        "voices",
+        "resume",
+        "ending"
+      ]
+    },
+    {
+      "beat": 598,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 90,
+      "tags": [
+        "playing",
+        "voices",
+        "resume",
+        "ending"
+      ]
+    },
+    {
+      "beat": 599,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 90,
+      "tags": [
+        "playing",
+        "voices",
+        "resume",
+        "ending"
+      ]
+    },
+    {
+      "beat": 600,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 90,
+      "tags": [
+        "playing",
+        "voices",
+        "resume",
+        "ending"
+      ]
+    },
+    {
+      "beat": 601,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 91,
       "tags": [
         "playing",
         "resume",
@@ -6713,7 +6650,683 @@
       ]
     },
     {
-      "beat": 598,
+      "beat": 602,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 91,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 603,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 91,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 604,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 91,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 605,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 91,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 606,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 91,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 607,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 91,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 608,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 92,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 609,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 92,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 610,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 92,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 611,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 92,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 612,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 92,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 613,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 92,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 614,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 93,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 615,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 93,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 616,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 93,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 617,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 93,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 618,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 93,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 619,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 93,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 620,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 93,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 621,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 94,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 622,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 94,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 623,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 94,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 624,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 94,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 625,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 94,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 626,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 94,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 627,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 95,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 628,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 95,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 629,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 95,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 630,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 95,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 631,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 95,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 632,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 95,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 633,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 95,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 634,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 96,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 635,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 96,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 636,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 96,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 637,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 96,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 638,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 96,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 639,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 96,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 640,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 96,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 641,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 97,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 642,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 97,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 643,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 97,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 644,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 97,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 645,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 97,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 646,
+      "bar": 7,
+      "barPercent": 100,
+      "songPercent": 97,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 647,
+      "bar": 0,
+      "barPercent": 12,
+      "songPercent": 98,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 648,
+      "bar": 1,
+      "barPercent": 25,
+      "songPercent": 98,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 649,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 98,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 650,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 98,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 651,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 98,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 652,
+      "bar": 5,
+      "barPercent": 75,
+      "songPercent": 98,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 653,
+      "bar": 6,
+      "barPercent": 87,
+      "songPercent": 98,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 654,
       "bar": 7,
       "barPercent": 100,
       "songPercent": 99,
@@ -6726,7 +7339,7 @@
       ]
     },
     {
-      "beat": 599,
+      "beat": 655,
       "bar": 0,
       "barPercent": 12,
       "songPercent": 99,
@@ -6739,9 +7352,61 @@
       ]
     },
     {
-      "beat": 600,
+      "beat": 656,
       "bar": 1,
       "barPercent": 25,
+      "songPercent": 99,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 657,
+      "bar": 2,
+      "barPercent": 37,
+      "songPercent": 99,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 658,
+      "bar": 3,
+      "barPercent": 50,
+      "songPercent": 99,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 659,
+      "bar": 4,
+      "barPercent": 62,
+      "songPercent": 99,
+      "tags": [
+        "playing",
+        "resume",
+        "ending",
+        "close",
+        "closing"
+      ]
+    },
+    {
+      "beat": 660,
+      "bar": 5,
+      "barPercent": 75,
       "songPercent": 100,
       "tags": [
         "resume",
