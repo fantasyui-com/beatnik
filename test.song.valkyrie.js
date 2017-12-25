@@ -4,8 +4,11 @@ const beatnik = require('./index.js')
 
 // Configure Stream
 const beats = beatnik({
-  bpm: 96, // Beats per minute
-  bars: 16, // Bars (groups of beats)
+  title: 'Valkyrie',
+  author: 'MC Meow',
+
+  bpm: 200, // Beats per minute
+  bars: 8, // Bars (groups of beats)
   minutes:3, // Total minutes
 
   definition:[
