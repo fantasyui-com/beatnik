@@ -7,7 +7,7 @@ const beats = beatnik({
   title: 'Valkyrie',
   author: 'MC Meow',
 
-  bpm: 200, // Beats per minute
+  bpm: 220, // Beats per minute
   bars: 8, // Bars (groups of beats)
   minutes:3, // Total minutes
 
