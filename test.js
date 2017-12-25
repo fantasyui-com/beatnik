@@ -8,16 +8,16 @@ const beats = beatnik({
   bars: 16, // Bars (groups of beats)
   minutes:3, // Total minutes
 
-  // Percentages where kinds of song segment start
+  definition:[
 
-  states:[
-
-    {percent:10, tags:{open:true,playing:true}},
+    {percent:0, tags:{playing:true}},
+    {percent:10, tags:{open:true}},
     {percent:30, tags:{dings:true}},
-    {percent:60, tags:{rise:true,}},
-    {percent:70, tags:{drop:true, rise: false, open:false}},
-    {percent:90, tags:{resume:true, drop: false, ending:true}},
-    {percent:91, tags:{close:true,closing:true, playing:false}},
+    {percent:60, tags:{rise:true}},
+    {percent:70, tags:{drop:true, rise: false, open:false, voices:true}},
+    {percent:90, tags:{resume:true, drop: false, ending:true, dings: false}},
+    {percent:91, tags:{close:true, closing:true, voices:false}},
+    {percent:100, tags:{playing:false}},
 
   ]
 
