@@ -39,9 +39,6 @@ module.exports = function(options){
         const barPercent = (bar * 100 / bars)|0;
 
         const state = {};
-
-        // loop up to current songPercent
-
         configuration.definition.forEach(defined=>{
           if(defined.percent<=songPercent){
             Object.keys(defined.tags).forEach(key=>{
